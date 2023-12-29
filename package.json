@@ -1,0 +1,10 @@
+{
+    "name": "com.pilab.mirror-extension",
+    "displayName": "Mirror System",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Simple mirror system",
+    "keywords": ["mirror"],
+    "dependencies": {
+    }
+}
